@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer from Tunisia</h3>
 
 <p align="center">
-  <a href="https://yosri-jemai.vercel.app/" target="_blank">
+  <a href="https://yosri-jemai.vercel.app/" target="_blank" rel="noopener noreferrer">
     🌐 My Portfolio
   </a>
 </p>
