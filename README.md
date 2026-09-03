@@ -57,24 +57,26 @@
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
   </a>
-  <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/NomicFoundation/hardhat/main/docs/src/assets/img/hardhat-logo.svg" alt="Hardhat" width="40" height="40"/>
-  </a>
-  <a href="https://ethereum.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="Ethereum" width="40" height="40"/>
-  </a>
+<a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" alt="Hardhat" width="40" height="40"/>
+</a> 
+<a href="https://ethereum.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" alt="Ethereum" width="40" height="40"/>
+</a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
-  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" alt="n8n" width="40" height="40"/>
-  </a>
+<a href="https://n8n.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="40" height="40"/>
+</a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
